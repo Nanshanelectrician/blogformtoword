@@ -19,7 +19,8 @@ Manually copying and pasting Google Forms content into Word is time-consuming an
 - 
 
 ## 📢 Try It Now!
-👉 [Click Here to Use FormToWord]((https://formtoword.vercel.app/))
+👉  [Click Here to Use FormToWord](https://formtoword.vercel.app/)
+
 
 ---
 
