@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="vpKZ2jnd4dFZMN3IW9p8g32tOBfHBBzwCEhchCUdztU" />
 # 🚀 One-Click Conversion: Google Forms to Word
 
 **The simplest way to convert Google Forms to Word!**
