@@ -15,11 +15,12 @@ Manually copying and pasting Google Forms content into Word is time-consuming an
 ✅ **SEO-Friendly**: Word as a universal format makes archiving, printing, and sharing easy.
 
 ## 📄 Related Articles
-- [How to convert google forms to word?]([seo-guide.md](https://nanshanelectrician.github.io/blogformtoword/googleformtoword))
+-  [How to convert Google Forms to Word?](https://nanshanelectrician.github.io/blogformtoword/googleformtoword)
+
 - 
 
 ## 📢 Try It Now!
-👉 [Click Here to Use FormToWord]((https://formtoword.vercel.app/))
+👉 [Click Here to Use FormToWord](https://formtoword.vercel.app/)
 
 ---
 
